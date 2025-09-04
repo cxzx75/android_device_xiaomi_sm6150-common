@@ -158,6 +158,7 @@ ro.surface_flinger.protected_contents=true
 ro.surface_flinger.supports_background_blur=1
 ro.surface_flinger.use_color_management=true
 ro.surface_flinger.wcg_composition_dataspace=143261696
+ro.sf.blurs_are_expensive=1
 vendor.display.comp_mask=0
 vendor.display.dataspace_saturation_matrix=1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
 vendor.display.disable_decimation=1
